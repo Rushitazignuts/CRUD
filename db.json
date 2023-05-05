@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "productName": "grapes",
+      "category": "Fruits",
+      "freshness": "New",
+      "price": 40,
+      "date": "2023-03-15T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "laptop",
+      "category": "Electronics",
+      "freshness": "old",
+      "price": 15000,
+      "date": "2023-03-16T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "potato",
+      "category": "Vegetables",
+      "freshness": "old",
+      "price": 23,
+      "date": "2023-03-01T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "mango",
+      "category": "Fruits",
+      "freshness": "New",
+      "price": 100,
+      "date": "2023-03-23T18:30:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "iron",
+      "category": "Electronics",
+      "freshness": "New",
+      "price": 1000,
+      "date": "2023-03-23T18:30:00.000Z",
+      "id": 7
+    },
+    {
+      "productName": "fruits",
+      "category": "Fruits",
+      "freshness": "New",
+      "price": 566,
+      "date": "2023-04-24T18:30:00.000Z",
+      "id": 8
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
